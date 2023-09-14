@@ -12,7 +12,7 @@
   background-color: #202024;
   border-radius: 5px;
   padding: 0 12px;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 #form > input:focus {
@@ -34,6 +34,6 @@
 }
 
 #form > button i {
-  font-size: 24px;
+  font-size: 1.5rem;
   color: #e2dede;
 }
