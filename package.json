@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "web": "vite",
-    "server": "node --watch --no-warnings server/index.js"
+    "server": "node --watch --no-warnings server/index.js",
+    "build": "vite build"
   },
   "devDependencies": {
     "vite": "^4.4.5"
