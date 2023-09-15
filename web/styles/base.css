@@ -10,6 +10,11 @@ body {
   align-items: center;
   justify-content: center;
   color: #fff;
+  caret-color: #633bbc;
+}
+
+::selection {
+  background-color: #8257e5;
 }
 
 body,
